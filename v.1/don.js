@@ -1,0 +1,2 @@
+alert("enterd the websitet");
+
